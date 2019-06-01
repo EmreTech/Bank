@@ -1,5 +1,3 @@
-package com.emrebank.bank;
-
 import java.io.*;
 import java.util.*;
 
